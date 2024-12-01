@@ -5,7 +5,6 @@ import Home from './pages/Home'
 import HomeProperties from './pages/HomeProperties'
 import Header from './components/Header'
 import Footer from './components/Footer'
-import Dashboard from './pages/Dashboard'
 import LogIn from './pages/LogIn'
 import SignUp from './pages/SignUp'
 

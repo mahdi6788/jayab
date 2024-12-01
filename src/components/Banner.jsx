@@ -1,5 +1,6 @@
 import React from "react";
 import BannerImg from "../assets/img/banner.jpg";
+import Search from "./Search";
 
 function Banner() {
   return (
@@ -18,6 +19,9 @@ function Banner() {
           <br />
           سفر از تو جا از ما
         </p>
+      </div>
+      <div className=" flex-col lg:flex ">
+        <Search/>
       </div>
     </div>
   );
